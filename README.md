@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zoe Philip Iyawa
 - 👀 I’m interested in Artificial Intelligence and fintech industry
-- 🌱 I’m currently learning SQL and hopefully python
+- 🌱 I’m currently learning SQL and python
 - 💞️ I’m looking to collaborate on SQL projetcs
 
 
