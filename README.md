@@ -2,7 +2,7 @@
 
 ## 💼 About Me
 
-I'm a customer-focused Analyst with a background in marketing, finance and tech. Passionate about turning data into actionable insights. My background blends business acumen with hands-on technical skills in SQL, Python, Tableau, and Google Analytics. Currently transitioning into the tech space, I'm focused on Customer Insight Analytics—bringing data storytelling and stakeholder collaboration to the forefront of product and service improvement.
+I'm a Customer-focused Data Analyst with a background in marketing, finance and tech. Passionate about turning data into actionable insights. My background blends business acumen with hands-on technical skills in SQL, Python, Tableau, and Google Analytics. Currently transitioning into the tech space, I'm focused on Customer Insight Analytics—bringing data storytelling and stakeholder collaboration to the forefront of product and service improvement.
 
 - 👩🏽‍💻 Tech Ambassador at Coding Black Females, helping bridge the gap for aspiring tech talents.
 - 🌱 Currently upskilling in data science and analytics through hands-on projects.
