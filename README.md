@@ -56,8 +56,7 @@ Stakeholder Engagement | Data Storytelling | Communication | Problem Solving | E
 
 ## 📫 Connect With Me
 
-[![LinkedIn](
-(http://linkedin.com/in/zoe-philip-iyawa-087869181))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](http://linkedin.com/in/zoe-philip-iyawa-087869181)  
 📧 zoephilipiyawa@yahoo.com  
 📍 UK | 🌍 Open to remote and global opportunities
 
